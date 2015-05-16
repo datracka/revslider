@@ -4,6 +4,6 @@
   "type": "wordpress-plugin",
   "dist": {
     "url": "git@github.com:datracka/revslider.git",
-    "type": "vcs"
+    "type": "git"
   }
 }
