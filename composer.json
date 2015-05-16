@@ -6,10 +6,7 @@
     "type": "wordpress-plugin",
     "dist": {
       "url": "git@github.com:datracka/revslider.git",
-      "type": "git"
-    },
-    "require" : {
-      "composer/installers": "v1.0.16"
+      "type": "vcs"
     }
   }
 }
