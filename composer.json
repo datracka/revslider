@@ -1,12 +1,9 @@
 {
-  "type": "package",
-  "package": {
-    "name": "datracka/revslider",
-    "version": "master",
-    "type": "wordpress-plugin",
-    "dist": {
-      "url": "git@github.com:datracka/revslider.git",
-      "type": "vcs"
-    }
+  "name": "datracka/revslider",
+  "version": "dev-master",
+  "type": "wordpress-plugin",
+  "dist": {
+    "url": "git@github.com:datracka/revslider.git",
+    "type": "vcs"
   }
 }
