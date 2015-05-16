@@ -2,15 +2,9 @@
   "name": "datracka/revslider",
   "type": "package",
   "package": {
-    "name": "revslider",
-    "version": "master",
-    "type": "wordpress-plugin",
     "source": {
       "url": "git@github.com:datracka/revslider.git",
       "type": "git"
-    },
-    "require" : {
-      "composer/installers": "v1.0.21"
     }
   }
 }
