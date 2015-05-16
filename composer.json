@@ -1,0 +1,9 @@
+{
+  "name": "datracka/revslide",
+  "version": "master",
+  "type": "wordpress-plugin",
+  "dist": {
+    "url": "git@github.com:datracka/revslider.git",
+    "type": "git"
+  }
+}
