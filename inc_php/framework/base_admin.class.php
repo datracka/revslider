@@ -20,7 +20,7 @@
 		private static $tempVars = array();
 		private static $startupError = "";
 		private static $menuRole = self::ROLE_ADMIN;
-		private static $arrMetaBoxes = "";		//option boxes that will be added to post
+		private static $arrMetaBoxes = array();		//option boxes that will be added to post
 		
 		private static $allowed_views = array('master-view', 'system/validation', 'system/video_dialog', 'system/update_dialog', 'system/general_settings_dialog', 'sliders', 'slider', 'slider_template', 'slides', 'slide', 'navigation-editor', 'slide-editor', 'slide-overview', 'slide-editor', 'slider-overview', 'themepunch-google-fonts');
 		
